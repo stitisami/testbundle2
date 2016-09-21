@@ -1,0 +1,3 @@
+stitisamitest_homepage:
+    path:     /
+    defaults: { _controller: StitisamitestBundle:Default:index }

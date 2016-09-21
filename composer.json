@@ -1,5 +1,5 @@
 {
-    "name" : "stiti/testbundle",
+    "name" : "stitisami/testbundle",
     "description" : "A demo bundle",
     "type" : "symfony-bundle",
     "authors" : [{
@@ -16,10 +16,10 @@
     },
     "autoload" : {
         "psr-0" : {
-            "sitisami\\testBundle" : ""
+            "stitisami\\testBundle" : ""
         }
     },
-    "target-dir" : "sitisami/testBundle",
+    "target-dir" : "stitisami/testBundle",
     "repositories" : [{
     }],
     "extra" : {
